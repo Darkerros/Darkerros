@@ -1,4 +1,4 @@
-#### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Здраствуйте,+Я+веб+разработчик)](https://git.io/typing-svg)
+#### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Здравствуйте,+Я+веб+разработчик)](https://git.io/typing-svg)
 
 ## Что я использую
 
