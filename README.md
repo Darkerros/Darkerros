@@ -196,7 +196,7 @@
 
 ## ☄️ Contact
 
-- **[VK](https://vk.com/darrkerros)**
+- **[VK](https://vk.com/darrkeros)**
 - **[Telegram](https://t.me/darkerros)**
 - **[Github](https://github.com/darkerros)**
 
